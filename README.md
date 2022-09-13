@@ -53,3 +53,10 @@ Here are some ideas to get you started:
  - 은행 전표 출력
 
 # 토이프로젝트
+1. 투자 포트폴리오
+* 중장기적인 포트폴리오를 관리하기 위한 토이 프로젝트
+* https://github.com/Adeonthebeat/portpolio
+
+2. C#을 이용한 키움자동매매
+* 개발자 스킬을 업그레이드를 위한 토이 프로젝트
+* https://github.com/Adeonthebeat/C_Toy_Project
