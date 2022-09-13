@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 경력
+
+## 나이스비즈니스플랫폼(2022.05 ~ 현재)
+* P2P 온라인투자업에서 P2P 상품 운영 업무
+* 세금계산서 기반 P2P 상품 개발 및 테스트(하루 신청액 5억 ~ 12억)
+* 웹기반 취약점 대비 시큐어 코딩 개발 및 테스트
+
 
 ## ✨ Tech Stack
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=aws&logoColor=white">
