@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 개발자 이종혁입니다.
 
 <!--
 **Adeonthebeat/Adeonthebeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 간단한 자기소개
-현재 4년차 웹개발자입니다.
+안녕하십니까? 이종혁입니다. 현재 4년차 웹개발자입니다.
 주로 금융권 개발 중 자산운용 개발을 했으며 현재는 P2P온라인투자업에서 근무 중입니다.
 자산운용(주식, 채권 등)을 위한 시스템을 개발했으며, 주로 Middle Office(위험관리)쪽을 개발했습니다. 현재는 P2P 상품 개발을 하고 있습니다.
 저는 사용했던 기술로는 Java, Oracle DB, Spring Framework(Spring Boot), R을 사용했습니다. 
